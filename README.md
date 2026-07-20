@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm TwelveBitRU
 
-<!--
-**twelvebitru/twelvebitru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Browser Extension Developer
 
-Here are some ideas to get you started:
+I build modern browser extensions for Chrome, Microsoft Edge and other Chromium-based browsers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+- JavaScript
+- HTML5
+- CSS3
+- Chrome Extensions (Manifest V3)
+- Git
+- GitHub
+
+### 🛠 Current Goals
+
+- Create high-quality browser extensions
+- Build useful productivity tools
+- Learn modern web technologies
+- Publish professional open-source projects
+
+---
+
+## 📜 Copyright
+
+Unless otherwise specified, all projects published under this GitHub account are protected by copyright.
+
+Unauthorized copying, modification, redistribution or publication of source code is prohibited without the author's permission.
+
+© 2026 TwelveBitRU. All rights reserved.
